@@ -1,5 +1,5 @@
 # Google Sheets
-Collection of my more advanced google sheets I've made.
+Collection of some google sheets I've made.
 
 ## Stranger Of Paradise:
 [Build Calculator - v1.1](https://docs.google.com/spreadsheets/d/1jGK6kRwX-cik9FrJDGgc1A2m8fiFLjRDlPb59hlGcFg/edit?usp=sharing)
